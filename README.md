@@ -1,14 +1,8 @@
 ## Edited the ReadMe.md
 
-You can use the [editor on GitHub](https://github.com/kmy-01/NewRepo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 **This site is made** with_Jeckyll_ and `Some Code`
 
 ### Wow We use markdown language in WhatsApp!
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -25,12 +19,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](link) and ![Image](src)
+[Link](link) and ![Alt text for image](folder/myimage#idForCSS)
 ```
 
-[Click here to go to Google.com](https://www.google.com/)
+[Click me to go to Google.com](https://www.google.com/)
+![Alt text for image](folder/myimage#idForCSS)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_*You can write HTML code in markdown files!*_
 
 ### Jekyll Themes
 
